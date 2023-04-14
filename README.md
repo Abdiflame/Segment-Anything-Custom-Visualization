@@ -1,5 +1,5 @@
-# WikiArt-Visual-Recommendation
-A Visual Similarity-based Recommendation System using Convolutional AutoEncoders and Embedded Space Cosine-Distance methods with the WikiArt Dataset
+# Segment-Anything-Custom-Visualization
+Using Segment Anything META - SAM for custom data automatic segmentation, control and visualization.
 
 # Motivation
 Write here
