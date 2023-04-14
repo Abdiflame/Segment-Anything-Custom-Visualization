@@ -16,7 +16,7 @@ In this project we used:
 
 # Project Overview
 <p align="center">
-<img src="https://user-images.githubusercontent.com/5551460/210288291-2bf85a51-9655-4dca-9f0d-ebcb94f13ebe.png" width=70% height=70%>
+<img src="https://user-images.githubusercontent.com//5551460/231972452-8f6aae94-6ef8-4878-804d-d0ba2e399525.png" width=70% height=70%>
 <img src="https://user-images.githubusercontent.com/5551460/210288850-43ab6335-60e8-468a-a1ac-7be2039bcd98.png" width=70% height=70%>
 <img src="https://user-images.githubusercontent.com/5551460/210288946-53e394f4-1ac5-40f4-8266-412284f7ad51.png" width=70% height=70%>
 </p>
